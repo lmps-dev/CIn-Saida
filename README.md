@@ -65,7 +65,7 @@ Inspirado no formato de exploração do jogo Shattered Pixel Dungeon, nosso proj
   - Coletáveis
   - Contador
 
-- **[Vinicius Amorim]** [GitHub](https://github.com/(?????????????))
+- **[Vinicius Amorim]** [GitHub](https://github.com/((voa3hub))
   - Design do Mapa
 
 - **[Lucas de Moura]** [GitHub](https://github.com/LuKS0302)
