@@ -6,7 +6,7 @@ Projeto de Introdução à Programação do semestre [2025.1], nosso objetivo er
 [CIn Saída] 
 
 ## **Link do repositório no GitHub:**
-[https://github.com/LuKS0302/Jogo-de-IP]
+[https://github.com/LuKS0302/CIn_saída]
 
 ---
 
