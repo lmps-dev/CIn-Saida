@@ -75,6 +75,7 @@ Inspirado no formato de exploração do jogo Shattered Pixel Dungeon, nosso proj
 - **[Guilherme Véras]** [GitHub](https://github.com/DrVerax)
   - Sons
   - Colisões
+  - Menu
 
 - **[Luis Henrique]** [GitHub](https://github.com/luishbm1550)
   - Coletáveis
